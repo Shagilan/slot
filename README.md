@@ -25,7 +25,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -165,7 +165,7 @@ Execute the program using runserver command.
             <td>CRYPTOCURRENCY</td>
         </tr>
     </table>
-
+```
 ## OUTPUT
 ![Screenshot 2025-03-13 092549](https://github.com/user-attachments/assets/13bb945a-ef2e-40cf-a84e-93cc355a98c3)
 
